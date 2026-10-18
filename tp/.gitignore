@@ -1,0 +1,5 @@
+# résultats locaux des notebooks (exécutions, cache, figures) et données reconstruites : jamais publiés
+resultats/
+auteurs/resultats/
+donnees/
+__pycache__/
